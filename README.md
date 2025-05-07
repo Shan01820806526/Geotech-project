@@ -1,1 +1,2 @@
 # Geotech-project
+•	Conducted a soil classification project as part of university coursework, where a disturbed soil sample was collected from Halishahar Shishupark Field, Halishahar I Block, Chittagong, Bangladesh (22°20'26.1″N 91°47'02.3″E) at a depth of 1.5 meters. The soil was classified in accordance with ASTM D2487-11/BNBC 2020 standards through laboratory tests including natural moisture content, grain size analysis (sieve and hydrometer), specific gravity, and Atterberg limits.
